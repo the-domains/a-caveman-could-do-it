@@ -1,0 +1,28 @@
+name: A Caveman Could Do it
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.9607892681378871
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6011381302960217
+  lightness: 0.8123791394755244
+  saturation: 0.7495144840795547
+  rhythmicContrast: 0.05415170639753342
+purpose: []
